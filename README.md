@@ -7,6 +7,8 @@ To start, I initially had to manipulate the data on Excel; the origial CSV had a
 # Top Publishers
 Using Altair, I created a dynamic bar graph that allows the user to hover the mouse over the bars to access further information such as the number of awards the publishing house published. For example, Penguin Random House has the tallest bar, and when the mouse is hovered over this bar, you can see they have 5491 awards. They're followed next by Harper Collins (1926 awards), then Macmillan (1795 awards), and then Simon & Schuster (1484 awards).
 
+![top20publishers](https://github.com/sallywuhoo/CIS9655-Top-Publishers/assets/148400043/40f95d98-63ea-48ea-9bd2-a6e9082be3ad)
+
 With these top 4 publishing houses, I created a sub-dataframe to hold only the data of these publishing houses to build the next visualization.
 
 # Books Published by the Top 4 Publishing Houses
