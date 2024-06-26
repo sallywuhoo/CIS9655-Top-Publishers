@@ -13,3 +13,7 @@ With these top 4 publishing houses, I created a sub-dataframe to hold only the d
 
 # Books Published by the Top 4 Publishing Houses
 The second dynamic visualization I created shows a scatterplot on top with a bargraph below which are connected by the selection ability of the graph; this visualization allows users to point and drag their mouse over areas of the scatterplot to see which publishers have books within that enclosed space. On the scatterplot, each dot is represented by a book and the books' ratings are on the x-axis while its number of awards are on the y-axis; similarly, if you hover a mouse over the dot, additional information is provided such as the book title, its exact rating, and its exact number of awards. 
+
+![top4books](https://github.com/sallywuhoo/CIS9655-Top-Publishers/assets/148400043/1c15090c-306e-4702-820c-f7135f2e448a)
+
+For example, in the screenshot above, the grayed out area in the scatterplot is selected and the bargraph below reflects this selection; for books that are published by the top 4 publishing houses that fall between 3.5 stars to 4.5 stars and have between 10-15 awards, HarperCollins (blue bar) contains 5 books, Macmillan (yellow bar) contains 3 books, Penguin Random House (red bar) contains 24 books, and Simon & Schuster (purple bar) contains 4 books.
